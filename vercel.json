@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:match*",
-      "destination": "https://n.xlz122.cn/api/:match*"
+      "destination": "https://music-api.halo.wang/:match*"
     }
   ]
 }
